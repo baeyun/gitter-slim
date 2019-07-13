@@ -1,0 +1,60 @@
+{
+  "name": "gitter-slim",
+  "version": "0.1.0",
+  "bin": {
+    "gitter-slim": "init.js"
+  },
+  "main": "index.js",
+  "scripts": {
+    "start": "node init.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Bukhaar M <bukharim96@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "@babel/core": "^7.5.0",
+    "@babel/preset-env": "^7.5.0",
+    "@babel/preset-react": "^7.0.0",
+    "@babel/register": "^7.4.4"
+  },
+  "dependencies": {
+    "appdata-path": "^1.0.0",
+    "auto-launch": "^1.1.1",
+    "blessed": "^0.1.81",
+    "bluebird": "^3.2.1",
+    "chalk": "^2.4.2",
+    "debounce": "^1.0.2",
+    "extract-zip": "^1.0.3",
+    "fs-extra": "^0.26.5",
+    "gitter-realtime-client": "^1.7.0",
+    "jfs": "^0.2.6",
+    "loglevel": "^1.6.1",
+    "marked": "^0.7.0",
+    "marked-terminal": "^3.2.0",
+    "oauth": "^0.9.12",
+    "object-assign": "^4.0.1",
+    "open": "0.0.5",
+    "opn": "^5.3.0",
+    "react": "^16.8.6",
+    "react-blessed": "^0.6.1",
+    "request": "^2.69.0",
+    "semver": "^5.1.0",
+    "url-join": "^4.0.0",
+    "url-parse": "^1.0.5",
+    "yargs": "^4.1.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bukharim96/gitter-slim.git"
+  },
+  "keywords": [
+    "gitter",
+    "gitter-cli",
+    "gitter-client"
+  ],
+  "bugs": {
+    "url": "https://github.com/bukharim96/gitter-slim/issues"
+  },
+  "homepage": "https://github.com/bukharim96/gitter-slim#readme",
+  "description": ""
+}

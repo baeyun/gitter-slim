@@ -1,0 +1,28 @@
+{
+  "name": "gitter-slim",
+  "version": "0.1.0",
+  "bin": {
+    "slim": "init.js"
+  },
+  "main": "index.js",
+  "scripts": {
+    "start": "node init.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Bukhaar M <bukharim96@gmail.com>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bukharim96/gitter-slim.git"
+  },
+  "keywords": [
+    "gitter",
+    "gitter-cli",
+    "gitter-client"
+  ],
+  "bugs": {
+    "url": "https://github.com/bukharim96/gitter-slim/issues"
+  },
+  "homepage": "https://github.com/bukharim96/gitter-slim#readme",
+  "description": ""
+}
