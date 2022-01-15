@@ -29,7 +29,7 @@
     "gitter-realtime-client": "^1.7.0",
     "jfs": "^0.2.6",
     "loglevel": "^1.6.1",
-    "marked": "^0.7.0",
+    "marked": "^4.0.10",
     "marked-terminal": "^3.2.0",
     "oauth": "^0.9.12",
     "object-assign": "^4.0.1",
